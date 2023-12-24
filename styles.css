@@ -1,0 +1,69 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+header img {
+    max-width: 40%;
+    height: auto;
+    margin-top: 20px;
+    margin-right: auto;
+    margin: radius 40px;
+    border-radius: 10px;
+}
+
+main {
+    max-width: 800px;
+    max-height: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 50px; 
+}
+
+h2 {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    position:absolute;
+    width: 100%;
+}
+
+/* Link Styles */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+ul{
+    /*align-items: center;*/
+}
+
+
+
